@@ -1,3 +1,7 @@
-.dimension{
+.box-custom{
+    height: 137.5px;
+    width:calc(100% / 7 - 48px);
+    margin: 24px;
     border: black 1px solid;
+    line-height: 137.5px;
 }
